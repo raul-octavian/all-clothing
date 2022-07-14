@@ -1,0 +1,13 @@
+.sign-up-container {
+  display: flex;
+  flex-direction: column;
+  min-width: 380px;
+  width: auto;
+}
+
+.buttons-container {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  gap: 30px
+}
